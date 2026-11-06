@@ -6,9 +6,7 @@ Built for people who feed documents to language models: Markdown is what agents 
 
 Each version is available on the Releases page (direct download) and on the Mac App Store.
 
-<!-- Immagine di copertina: aggiungi il file e decommenta la riga
-![OCR to Markdown](docs/header.png)
--->
+<img width="2880" height="1800" alt="screen1" src="https://github.com/user-attachments/assets/c6a1e392-3874-455f-b26d-092b01ed46f1" />
 
 ## Why
 
